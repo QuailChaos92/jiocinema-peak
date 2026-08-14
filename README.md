@@ -36,4 +36,4 @@ Next-generation **JioCinema Peak** media solution delivering 4K content, spatial
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.     
+> This repository is provided for educational and utility purposes only. Use at your own discretion.      
